@@ -2,7 +2,7 @@ from __future__ import print_function
 a = 20 ; b = 10
 
 # Addition operator
-c = a + b
+c = a + b+d
 print("Addition value =" , c)
 
 # Subtraction operator
