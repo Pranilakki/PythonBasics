@@ -1,0 +1,22 @@
+from __future__ import print_function
+a = 20 ; b = 10
+
+# Addition operator
+c = a + b
+print("Addition value =" , c)
+
+# Subtraction operator
+c = a - b
+print("Subtraction value = " , c)
+
+# Multipliction operator 
+c = a * b
+print("Multipliction value = " , c)
+
+# Division operator 
+c = a / b
+print("Division value = " , c)
+
+# Mod operator 
+c = a % b
+print("Mod value = " , c)
